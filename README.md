@@ -1,8 +1,5 @@
 # ScoutLog
-
 Simple script meant to make sorting through the queues easier
-
----
 
 ## How to use
 
